@@ -14,7 +14,7 @@ This project demonstrates how to build a stateful chatbot using **LangGraph** an
 
 1. Clone the repo.
 2. Create a `.env` file with your Groq API key:
-```
+
 
 GROQ\_API\_KEY=your\_groq\_api\_key\_here
 
